@@ -1,5 +1,0 @@
-www
-mail
-ftp
-localhost
-demo
