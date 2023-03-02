@@ -1,0 +1,12 @@
+requests
+tkinter
+ttkbootstrap
+Wappalyzer
+tldextract
+OpenSSL
+BeautifulSoup
+warnings
+threading
+pandas
+python-whois
+openpyxl
