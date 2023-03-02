@@ -1,7 +1,7 @@
 requests
 tkinter
 ttkbootstrap
-Wappalyzer
+python-Wappalyzer
 tldextract
 OpenSSL
 BeautifulSoup
