@@ -46,6 +46,6 @@ def get_ssl_info(url):
     # Close the SSL connection and the socket
     conn.close()
     s.close()
-    print("sslscan")
+    #print("sslscan")
 
     return df
