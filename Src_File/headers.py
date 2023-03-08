@@ -27,6 +27,6 @@ def headers(url):
     df_headers.loc['Clickjacking Protection'] = clickjacking_protection
     df_headers.loc['XSS Protection'] = xss_protection
     df_headers.loc['HSTS'] = htst
-    print("headers")
+    #print("headers")
     return df_headers
 
