@@ -1,1 +1,2 @@
-requests tkinter ttkbootstrap python-Wappalyzer tldextract OpenSSL BeautifulSoup warnings threading pandas python-whois openpyxl
+requests
+tldextract
