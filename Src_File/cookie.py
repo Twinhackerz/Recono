@@ -20,7 +20,6 @@ def cookie(url):
             cookie_dict["Max-Age"] = "N/A"
         cookies_info.append(cookie_dict)
     df_cookies = pd.DataFrame(cookies_info)
-    print("cookie security")
     return df_cookies
 
 
