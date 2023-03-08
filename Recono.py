@@ -217,6 +217,7 @@ def open_file():
     # Create a new window to display the file
     window = ttk.Toplevel(root)
     window.title(file_path)
+    window.iconphoto(False, PhotoImage(file=image_src))
     window.geometry("500x500")
 
     # Create a text widget to display the file contents
@@ -231,6 +232,7 @@ def open_file():
         # Save the file contents back to the original file
         with open(file_path, "w") as file:
             file.write(text_widget.get("1.0", "end-1c"))
+            window.destroy()
 
     # Add a save button to save the changes
     save_button = ttk.Button(window, text="Save", command=save_file)
