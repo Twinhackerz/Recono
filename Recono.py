@@ -38,7 +38,7 @@ with open(theme_file, 'r')as f:
     root = ttk.Window(themename=theme)  # solar,darkly,cyborg,vapor,superhero,morph
 
     style = ttk.Style()
-    root.title("Scanner")
+    root.title("Sharingan")
     root.iconphoto(False, PhotoImage(file=image_src))
     root.maxsize(width=480, height=250)
     root.minsize(width=480, height=250)
@@ -244,7 +244,7 @@ def popup():
     # Create a new window
     window = Toplevel(root)
     window.geometry("210x220")
-    window.title("port  configuration")
+    window.title("Setting")
     window.iconphoto(False, PhotoImage(file=image_src))
     # window.maxsize(width=210, height=220)
     # window.minsize(width=210, height=220)
