@@ -17,7 +17,7 @@ def http_methods(url):
                     {'Method': 'XST', 'Status Code': 'Possible', 'Reason': 'Cross-Site Tracing Vulnerability'})
 
     df_methods = pd.DataFrame(results)
-    print("http_method")
+    #print("http_method")
 
     return df_methods
 
