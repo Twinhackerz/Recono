@@ -11,7 +11,7 @@ def web_tech(url):
 
     technologies_dict = dict.fromkeys(technologies, '')
     df_tech = pd.DataFrame(list(technologies_dict.items()), columns=['Technology', 'Version'])
-    print("webtechnology")
+    #print("webtechnology")
     return df_tech
 
 
