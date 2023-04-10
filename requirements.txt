@@ -1,3 +1,5 @@
 requests
 tldextract
 python-Wappalyzer
+python-whois
+ttkbootstrap
