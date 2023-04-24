@@ -32,6 +32,7 @@ Credits:
           •	SSLyze
           •	Wappalyzer
 Screenshot: 
+
      The script uses the Tkinter library to create a simple graphical user interface (GUI) with an input field for the URL and a progress bar that updates    as each task completes. When all tasks are finished, the script exports the collected data to an Excel file.
 
   ![image](https://user-images.githubusercontent.com/126078447/234040492-ab8a2691-ec75-4e49-bffc-a94a5b713ec5.png)
