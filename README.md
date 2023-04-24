@@ -31,7 +31,9 @@ Credits:
           •	tldextract
           •	SSLyze
           •	Wappalyzer
-          
+  
+  ![image](https://user-images.githubusercontent.com/126078447/234040492-ab8a2691-ec75-4e49-bffc-a94a5b713ec5.png)
+
 
 Disclaimer:
 
