@@ -46,7 +46,7 @@ Screenshot:
   
   ![image](https://user-images.githubusercontent.com/126078447/234040694-5405fe78-fbed-4648-adfc-65a7b54b0434.png)
   
-  To open a text file, click on the "Open" button and select the file from the dialog box. The contents of the file will be displayed in a new window. You   can edit the contents in the text box and save the changes by clicking on the "Save" button. To load a file, click on the "Load" button and select the     file from the dialog box. The contents of the file will be loaded into the program.
+    To open a text file, click on the "Open" button and select the file from the dialog box. The contents of the file will be displayed in a new window.      You can edit the contents in the text box and save the changes by clicking on the "Save" button. To load a file, click on the "Load" button and select      the file from the dialog box. The contents of the file will be loaded into the program.
 
   ![image](https://user-images.githubusercontent.com/126078447/234040751-90e8819b-b924-438c-b19c-e24284c59d8b.png)
 
